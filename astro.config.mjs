@@ -1,5 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+// https://somfitness.co
+export default defineConfig({
+    site: 'https://laynemag.github.io'
+});
